@@ -1,0 +1,1 @@
+# Studi_Kasus_6_Ganjil_Sistem-Pencatatan-Nilai-Mahasiswa
