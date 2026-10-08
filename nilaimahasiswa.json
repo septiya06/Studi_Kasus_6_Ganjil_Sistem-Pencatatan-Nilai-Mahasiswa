@@ -1,0 +1,20 @@
+[
+    {
+        "nama": "Rani",
+        "nim": "412001",
+        "mata_kuliah": "Dasar Dasar Pemrograman",
+        "nilai": 85
+    },
+    {
+        "nama": "Rian",
+        "nim": "412002",
+        "mata_kuliah": "Dasar Dasar Pemrograman",
+        "nilai": 90
+    },
+    {
+        "nama": "Septiya",
+        "nim": "412003",
+        "mata_kuliah": "Dasar Dasar Pemograman",
+        "nilai": 95
+    }
+]
